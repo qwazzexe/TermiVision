@@ -24,3 +24,7 @@ Convert any video or YouTube link into dynamic ASCII art — watch movies right 
 ```bash
 git clone https://github.com/qwazzexe/TermiVision.git
 cd TermiVision
+python -m venv venv
+venv\\Scripts\\activate
+pip install -r requirements.txt
+python main.py
