@@ -22,5 +22,5 @@ Convert any video or YouTube link into dynamic ASCII art — watch movies right 
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/QwaZzVision.git
-cd QwaZzVision
+git clone https://github.com/qwazzexe/TermiVision.git
+cd TermiVision
